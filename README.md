@@ -1,4 +1,4 @@
-# 🎉 Diwali Sales Data Analysis (Python - VS Code)
+# Diwali Sales Data Analysis (Python - VS Code)
 
 This project analyzes **Diwali sales data** using Python in VS Code.  
 The focus is on **Exploratory Data Analysis (EDA)** and **data cleaning** to uncover customer behavior, product performance, and regional sales trends during the festive season.
