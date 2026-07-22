@@ -2,6 +2,7 @@
 <img width="616" height="171" alt="image" src="https://github.com/user-attachments/assets/5124379a-3e6a-4dd7-a24f-734327d9c5c2" />
 
 
+
 This project analyzes **Diwali sales data** using Python in VS Code.  
 The focus is on **Exploratory Data Analysis (EDA)** and **data cleaning** to uncover customer behavior, product performance, and regional sales trends during the festive season.
 
